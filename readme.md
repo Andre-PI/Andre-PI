@@ -9,3 +9,8 @@ Sou estudante do 4º período de Engenharia de Software. Sou apaixonado por tecn
 - **Spring**: Conhecimento em desenvolvimento de aplicações web utilizando o framework Spring.
 - **SQL**: Habilidade em modelagem de banco de dados e escrita de queries SQL.
 - **Angular**: Desenvolvimento de interfaces web modernas e dinâmicas usando Angular.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/andre-francino)
+- [Email](mailto:andrelucas_PI@proton.me)
